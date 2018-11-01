@@ -98,8 +98,8 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
-  border-color: #ff99ff;
+.card:hover, .card-row-2:hover {
+  border-color: #a4a7ad;
 }
 .card-row-2 {
   margin: 30px;
@@ -112,9 +112,6 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
-}
-.card-row-2:hover {
-  border-color: #81efe8;
 }
 
 ul.skills {
